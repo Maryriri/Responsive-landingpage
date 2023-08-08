@@ -201,6 +201,9 @@ footer{
     margin-left: 30px;
     margin-right: 30px;
 }
+.Logo{
+    margin-top: 15px;
+}
 h1 , p,button{
     margin-bottom: 20px;
 }
